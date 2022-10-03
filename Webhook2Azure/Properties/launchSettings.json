@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Webhook2Azure": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7148",
+      "launchBrowser": false
+    }
+  }
+}

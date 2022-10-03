@@ -1,0 +1,2 @@
+﻿AgPMBhD8BvR58kV/IVOXWXPzbW2fFh/M8/dTC/5k2FnFkTn/Gl/KqlJJWYi1Zl3DjPjBovri/jz2+AStwBCZgw==
+DefaultEndpointsProtocol=https;AccountName=connexp;AccountKey=AgPMBhD8BvR58kV/IVOXWXPzbW2fFh/M8/dTC/5k2FnFkTn/Gl/KqlJJWYi1Zl3DjPjBovri/jz2+AStwBCZgw==;EndpointSuffix=core.windows.net
